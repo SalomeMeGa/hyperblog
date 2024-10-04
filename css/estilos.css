@@ -54,3 +54,9 @@ vertical-align: middle;
     text-align: center;
 
 }
+
+#post
+{
+    background: rgb(167, 162, 162);
+    padding: 1em;
+}
